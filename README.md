@@ -19,14 +19,16 @@ Focus on wireless LAN, cellular networks, and embedded systems.
 * **Systems & Platforms**: Linux Kernel, Raspberry Pi.
 *   **Development Tools:** Git, Docker, ns-3 Network Simulator.
 <!--image sources: Flaticon.com-->
-<img src="./img/c.png" height="32" align="center">
-<img src="./img/cpp.png" height="32" align="center">
-<img src="./img/python.png" height="32" align="center">
-<img src="./img/linux.png" height="32" align="center">
-<img src="./img/raspberry-pi.png" height="32" align="center">
-<img src="./img/git.png" height="32" align="center">
-<img src="./img/docker.png" height="32" align="center">
-<img src="./img/ns-3-notext.png" height="26" align="center">
+<p align="left">
+  <img src="./img/c.png" height="32" alt="C" title="C" />&nbsp;
+  <img src="./img/cpp.png" height="32" alt="C++" title="C++" />&nbsp;
+  <img src="./img/python.png" height="32" alt="Python" title="Python" />&nbsp;
+  <img src="./img/linux.png" height="32" alt="Linux" title="Linux" />&nbsp;
+  <img src="./img/raspberry-pi.png" height="32" alt="Raspberry Pi" title="Raspberry Pi" />&nbsp;
+  <img src="./img/git.png" height="32" alt="Git" title="Git" />&nbsp;
+  <img src="./img/docker.png" height="32" alt="Docker" title="Docker" />&nbsp;
+  <img src="./img/ns-3-notext.png" height="26" alt="ns-3" title="ns-3" style="vertical-align: middle;" />
+</p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=iokkai&label=Profile%20views&color=0e75b6&style=flat" alt="iokkai" />
 
